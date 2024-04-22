@@ -1,4 +1,4 @@
-**Installtion Guide**
+***Installtion Guide***
 
 **Hardware Setup Guide for Smart Walking Stick**
 
